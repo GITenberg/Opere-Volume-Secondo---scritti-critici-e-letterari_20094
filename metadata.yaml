@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '37491'
     url: http://www.gutenberg.org/2009/agents/37491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20094#Opere-Volume-Secondo---scritti-critici-e-letterari
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2006-12-12'
 gutenberg_type: Text
